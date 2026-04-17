@@ -1,0 +1,19 @@
+Country,EU_NonEU,Agreement_Name,Year_Signed,Status,Tariff_Reduction_Pct,Trade_Value_GBP_Millions,Agreement_Type,Brexit_Period
+Japan,Non-EU,UK-Japan CEPA,2020,Active,99.0,16000,CEPA,Post-Brexit
+Australia,Non-EU,UK-Australia FTA,2021,Active,98.0,14800,FTA,Post-Brexit
+New Zealand,Non-EU,UK-New Zealand FTA,2022,Active,97.0,3200,FTA,Post-Brexit
+Singapore,Non-EU,UK-Singapore FTA,2022,Active,96.5,12000,FTA,Post-Brexit
+South Korea,Non-EU,UK-Korea FTA,2021,Active,98.5,8500,FTA,Post-Brexit
+Canada,Non-EU,UK-Canada TCA,2021,Active,97.5,13500,TCA,Post-Brexit
+Norway,Non-EU,UK-Norway EEA,2023,Active,95.0,10500,EEA,Post-Brexit
+Switzerland,Non-EU,UK-Switzerland MRA,2021,Active,93.0,24000,MRA,Post-Brexit
+Israel,Non-EU,UK-Israel FTA,2021,Active,94.0,5000,FTA,Post-Brexit
+Turkey,Non-EU,UK-Turkey FTA,2021,Active,92.0,7500,FTA,Post-Brexit
+Vietnam,Non-EU,UK-Vietnam FTA,2021,Active,95.5,4200,FTA,Post-Brexit
+India,Non-EU,UK-India FTA,2024,Negotiating,0.0,23000,Negotiating,Post-Brexit
+United States,Non-EU,UK-US FTA,2024,Negotiating,0.0,110000,Negotiating,Post-Brexit
+Gulf States,Non-EU,UK-GCC FTA,2023,Negotiating,0.0,19000,Negotiating,Post-Brexit
+EU,EU,UK-EU TCA,2020,Active,0.0,370000,TCA,Post-Brexit
+Germany,EU,Pre-Brexit EU Membership,2016,Ended,100.0,140000,EU Single Market,Pre-Brexit
+France,EU,Pre-Brexit EU Membership,2016,Ended,100.0,110000,EU Single Market,Pre-Brexit
+Netherlands,EU,Pre-Brexit EU Membership,2016,Ended,100.0,100000,EU Single Market,Pre-Brexit

@@ -1,0 +1,10 @@
+Year;GDP_GBP_Billions;GDP_Growth_Pct;Inflation_Pct;Unemployment_Pct;Interest_Rate_Pct;Trade_Balance_GBP_Billions;Brexit_Period
+2016;2020;1.8;0.7;4.8;0.25;-195;Pre-Brexit
+2017;2065;2.3;2.7;4.4;0.5;-185;Pre-Brexit
+2018;2115;1.3;2.5;4.1;0.75;-190;Pre-Brexit
+2019;2140;1.7;1.8;3.8;0.75;-180;Pre-Brexit
+2020;1990;-9.3;0.9;4.6;0.1;-175;Transition
+2021;2210;7.5;2.6;4.5;0.1;-185;Post-Brexit
+2022;2310;4.1;9.1;3.7;3.5;-230;Post-Brexit
+2023;2350;0.3;7.3;4.2;5.25;-210;Post-Brexit
+2024;2380;1.1;3.2;4.4;5.0;-195;Post-Brexit

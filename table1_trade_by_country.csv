@@ -1,0 +1,316 @@
+Year;Country;EU_NonEU;Exports_GBP_Millions;Imports_GBP_Millions;Brexit_Period
+2016;Germany;EU;35487.99;61912.57;Pre-Brexit
+2016;France;EU;27370.08;34031.24;Pre-Brexit
+2016;Netherlands;EU;25591.18;42742.14;Pre-Brexit
+2016;Ireland;EU;22862.8;17256.49;Pre-Brexit
+2016;Belgium;EU;17859.46;23824.49;Pre-Brexit
+2016;Italy;EU;14577.96;22011.78;Pre-Brexit
+2016;Spain;EU;11431.84;14548.26;Pre-Brexit
+2016;Sweden;EU;8119.91;9040.45;Pre-Brexit
+2016;Poland;EU;5832.26;8071.41;Pre-Brexit
+2016;Denmark;EU;5154.72;5703.9;Pre-Brexit
+2016;Austria;EU;4122.33;5099.07;Pre-Brexit
+2016;Portugal;EU;3444.09;3862.19;Pre-Brexit
+2016;Finland;EU;3137.16;3442.81;Pre-Brexit
+2016;Czech Republic;EU;2398.19;2879.01;Pre-Brexit
+2016;Romania;EU;2069.5;2525.93;Pre-Brexit
+2016;United States;Non-EU;56689.21;49102.71;Pre-Brexit
+2016;China;Non-EU;25090.57;57602.14;Pre-Brexit
+2016;Japan;Non-EU;7902.83;9046.84;Pre-Brexit
+2016;Australia;Non-EU;7230.58;4047.41;Pre-Brexit
+2016;Canada;Non-EU;6735.11;5038.68;Pre-Brexit
+2016;India;Non-EU;6122.74;7636.66;Pre-Brexit
+2016;South Korea;Non-EU;3891.16;5873.63;Pre-Brexit
+2016;Switzerland;Non-EU;11495.75;9732.79;Pre-Brexit
+2016;Norway;Non-EU;4800.5;7822.38;Pre-Brexit
+2016;UAE;Non-EU;8108.55;4932.42;Pre-Brexit
+2016;Saudi Arabia;Non-EU;4441.58;5825.7;Pre-Brexit
+2016;Brazil;Non-EU;2930.09;3652.83;Pre-Brexit
+2016;Singapore;Non-EU;6088.82;4043.65;Pre-Brexit
+2016;Hong Kong;Non-EU;5319.13;3068.74;Pre-Brexit
+2016;Turkey;Non-EU;3382.19;3951.78;Pre-Brexit
+2016;Mexico;Non-EU;2622.38;3042.0;Pre-Brexit
+2016;South Africa;Non-EU;2011.39;2546.15;Pre-Brexit
+2016;Israel;Non-EU;2585.71;2055.2;Pre-Brexit
+2016;New Zealand;Non-EU;1459.36;1429.82;Pre-Brexit
+2016;Malaysia;Non-EU;1963.09;2930.32;Pre-Brexit
+2017;Germany;EU;34668.21;68557.7;Pre-Brexit
+2017;France;EU;29634.91;34694.89;Pre-Brexit
+2017;Netherlands;EU;25896.37;41977.27;Pre-Brexit
+2017;Ireland;EU;23370.24;18105.19;Pre-Brexit
+2017;Belgium;EU;17928.32;24610.23;Pre-Brexit
+2017;Italy;EU;15393.89;21692.81;Pre-Brexit
+2017;Spain;EU;12343.53;15752.7;Pre-Brexit
+2017;Sweden;EU;8077.91;8834.86;Pre-Brexit
+2017;Poland;EU;6424.49;8087.7;Pre-Brexit
+2017;Denmark;EU;4891.36;5785.55;Pre-Brexit
+2017;Austria;EU;3920.74;5114.36;Pre-Brexit
+2017;Portugal;EU;3674.27;4008.55;Pre-Brexit
+2017;Finland;EU;2926.44;3493.15;Pre-Brexit
+2017;Czech Republic;EU;2676.51;3038.82;Pre-Brexit
+2017;Romania;EU;2136.1;2616.1;Pre-Brexit
+2017;United States;Non-EU;53882.54;50040.65;Pre-Brexit
+2017;China;Non-EU;26217.9;56307.4;Pre-Brexit
+2017;Japan;Non-EU;8047.86;9309.4;Pre-Brexit
+2017;Australia;Non-EU;6929.93;4053.38;Pre-Brexit
+2017;Canada;Non-EU;6664.02;5331.45;Pre-Brexit
+2017;India;Non-EU;6412.28;7966.93;Pre-Brexit
+2017;South Korea;Non-EU;4120.24;5923.33;Pre-Brexit
+2017;Switzerland;Non-EU;12870.01;10577.93;Pre-Brexit
+2017;Norway;Non-EU;5046.2;8273.38;Pre-Brexit
+2017;UAE;Non-EU;8329.79;4922.95;Pre-Brexit
+2017;Saudi Arabia;Non-EU;4756.67;6144.1;Pre-Brexit
+2017;Brazil;Non-EU;3176.1;3580.84;Pre-Brexit
+2017;Singapore;Non-EU;5871.35;4008.26;Pre-Brexit
+2017;Hong Kong;Non-EU;5392.78;3191.3;Pre-Brexit
+2017;Turkey;Non-EU;3741.53;4215.32;Pre-Brexit
+2017;Mexico;Non-EU;2525.43;2924.73;Pre-Brexit
+2017;South Africa;Non-EU;2137.87;2663.97;Pre-Brexit
+2017;Israel;Non-EU;2468.31;2037.14;Pre-Brexit
+2017;New Zealand;Non-EU;1478.44;1569.87;Pre-Brexit
+2017;Malaysia;Non-EU;2114.76;2946.29;Pre-Brexit
+2018;Germany;EU;35960.89;66630.2;Pre-Brexit
+2018;France;EU;28162.42;37029.59;Pre-Brexit
+2018;Netherlands;EU;25552.08;41605.34;Pre-Brexit
+2018;Ireland;EU;22749.04;18782.15;Pre-Brexit
+2018;Belgium;EU;17985.93;25019.88;Pre-Brexit
+2018;Italy;EU;16215.01;22776.33;Pre-Brexit
+2018;Spain;EU;12283.49;15326.89;Pre-Brexit
+2018;Sweden;EU;7927.71;8927.27;Pre-Brexit
+2018;Poland;EU;6079.94;8232.06;Pre-Brexit
+2018;Denmark;EU;5011.01;5948.77;Pre-Brexit
+2018;Austria;EU;3943.25;5166.86;Pre-Brexit
+2018;Portugal;EU;3507.28;4245.41;Pre-Brexit
+2018;Finland;EU;3201.13;3416.8;Pre-Brexit
+2018;Czech Republic;EU;2507.54;3111.71;Pre-Brexit
+2018;Romania;EU;2001.13;2456.24;Pre-Brexit
+2018;United States;Non-EU;60265.09;50274.65;Pre-Brexit
+2018;China;Non-EU;26178.26;58828.02;Pre-Brexit
+2018;Japan;Non-EU;8658.3;9070.22;Pre-Brexit
+2018;Australia;Non-EU;7053.74;4131.32;Pre-Brexit
+2018;Canada;Non-EU;6772.84;5182.85;Pre-Brexit
+2018;India;Non-EU;6444.32;8464.24;Pre-Brexit
+2018;South Korea;Non-EU;4403.35;5989.41;Pre-Brexit
+2018;Switzerland;Non-EU;12477.3;10232.87;Pre-Brexit
+2018;Norway;Non-EU;5439.88;8110.88;Pre-Brexit
+2018;UAE;Non-EU;8139.78;5173.28;Pre-Brexit
+2018;Saudi Arabia;Non-EU;4688.09;6101.81;Pre-Brexit
+2018;Brazil;Non-EU;3071.19;3794.07;Pre-Brexit
+2018;Singapore;Non-EU;6264.17;4310.32;Pre-Brexit
+2018;Hong Kong;Non-EU;5804.06;2979.78;Pre-Brexit
+2018;Turkey;Non-EU;3858.49;4299.79;Pre-Brexit
+2018;Mexico;Non-EU;2748.11;3253.03;Pre-Brexit
+2018;South Africa;Non-EU;2173.23;2513.24;Pre-Brexit
+2018;Israel;Non-EU;2621.23;2020.46;Pre-Brexit
+2018;New Zealand;Non-EU;1559.41;1491.15;Pre-Brexit
+2018;Malaysia;Non-EU;2074.58;3271.42;Pre-Brexit
+2019;Germany;EU;34519.99;66846.46;Pre-Brexit
+2019;France;EU;28152.76;34730.53;Pre-Brexit
+2019;Netherlands;EU;26404.73;44080.78;Pre-Brexit
+2019;Ireland;EU;22343.92;18393.13;Pre-Brexit
+2019;Belgium;EU;17552.42;24491.77;Pre-Brexit
+2019;Italy;EU;15860.09;22174.2;Pre-Brexit
+2019;Spain;EU;12171.14;15371.96;Pre-Brexit
+2019;Sweden;EU;7722.19;9075.76;Pre-Brexit
+2019;Poland;EU;6061.73;8282.18;Pre-Brexit
+2019;Denmark;EU;4877.0;6276.47;Pre-Brexit
+2019;Austria;EU;3870.37;4842.91;Pre-Brexit
+2019;Portugal;EU;3568.59;4070.09;Pre-Brexit
+2019;Finland;EU;2949.77;3366.96;Pre-Brexit
+2019;Czech Republic;EU;2623.55;2923.86;Pre-Brexit
+2019;Romania;EU;2039.09;2529.85;Pre-Brexit
+2019;United States;Non-EU;56737.97;49853.68;Pre-Brexit
+2019;China;Non-EU;26059.24;59112.61;Pre-Brexit
+2019;Japan;Non-EU;8073.94;9470.41;Pre-Brexit
+2019;Australia;Non-EU;7089.76;4077.06;Pre-Brexit
+2019;Canada;Non-EU;6876.06;5047.0;Pre-Brexit
+2019;India;Non-EU;6125.29;8447.54;Pre-Brexit
+2019;South Korea;Non-EU;3982.18;6154.22;Pre-Brexit
+2019;Switzerland;Non-EU;13102.07;10810.98;Pre-Brexit
+2019;Norway;Non-EU;4978.1;8003.64;Pre-Brexit
+2019;UAE;Non-EU;8124.65;5373.13;Pre-Brexit
+2019;Saudi Arabia;Non-EU;4858.24;6414.39;Pre-Brexit
+2019;Brazil;Non-EU;3079.29;3481.62;Pre-Brexit
+2019;Singapore;Non-EU;6448.26;4203.86;Pre-Brexit
+2019;Hong Kong;Non-EU;5783.88;3240.56;Pre-Brexit
+2019;Turkey;Non-EU;3696.05;3917.22;Pre-Brexit
+2019;Mexico;Non-EU;2682.45;3028.01;Pre-Brexit
+2019;South Africa;Non-EU;2113.98;2688.02;Pre-Brexit
+2019;Israel;Non-EU;2504.92;1980.78;Pre-Brexit
+2019;New Zealand;Non-EU;1498.7;1553.22;Pre-Brexit
+2019;Malaysia;Non-EU;2032.65;3122.39;Pre-Brexit
+2020;Germany;EU;31470.25;53612.38;Transition
+2020;France;EU;24970.76;29047.85;Transition
+2020;Netherlands;EU;21974.77;37147.05;Transition
+2020;Ireland;EU;20030.06;14676.22;Transition
+2020;Belgium;EU;15718.94;20775.45;Transition
+2020;Italy;EU;12544.68;19206.99;Transition
+2020;Spain;EU;10704.79;12446.49;Transition
+2020;Sweden;EU;7209.83;7689.54;Transition
+2020;Poland;EU;5241.82;6466.58;Transition
+2020;Denmark;EU;4213.11;5295.38;Transition
+2020;Austria;EU;3662.18;4269.38;Transition
+2020;Portugal;EU;3183.06;3428.05;Transition
+2020;Finland;EU;2547.1;2864.17;Transition
+2020;Czech Republic;EU;2157.82;2651.74;Transition
+2020;Romania;EU;1812.12;2201.65;Transition
+2020;United States;Non-EU;52618.56;41947.53;Transition
+2020;China;Non-EU;22423.92;47533.83;Transition
+2020;Japan;Non-EU;7566.17;8411.15;Transition
+2020;Australia;Non-EU;6379.71;3643.44;Transition
+2020;Canada;Non-EU;5773.42;4693.45;Transition
+2020;India;Non-EU;5721.26;7542.87;Transition
+2020;South Korea;Non-EU;3794.36;5605.96;Transition
+2020;Switzerland;Non-EU;10515.36;9212.91;Transition
+2020;Norway;Non-EU;4522.81;7510.19;Transition
+2020;UAE;Non-EU;7582.45;4663.83;Transition
+2020;Saudi Arabia;Non-EU;4268.65;5274.08;Transition
+2020;Brazil;Non-EU;2839.32;3026.55;Transition
+2020;Singapore;Non-EU;5725.44;3729.09;Transition
+2020;Hong Kong;Non-EU;4919.55;2785.48;Transition
+2020;Turkey;Non-EU;3207.22;3529.87;Transition
+2020;Mexico;Non-EU;2367.93;2626.45;Transition
+2020;South Africa;Non-EU;1752.35;2180.95;Transition
+2020;Israel;Non-EU;2260.5;1865.58;Transition
+2020;New Zealand;Non-EU;1444.43;1320.18;Transition
+2020;Malaysia;Non-EU;1866.03;2672.91;Transition
+2021;Germany;EU;31181.42;57407.15;Post-Brexit
+2021;France;EU;24845.38;29615.25;Post-Brexit
+2021;Netherlands;EU;22249.6;35771.99;Post-Brexit
+2021;Ireland;EU;19564.94;15468.5;Post-Brexit
+2021;Belgium;EU;14700.86;21856.04;Post-Brexit
+2021;Italy;EU;13041.39;18999.28;Post-Brexit
+2021;Spain;EU;10308.33;13215.08;Post-Brexit
+2021;Sweden;EU;6721.93;7980.66;Post-Brexit
+2021;Poland;EU;4974.91;7186.98;Post-Brexit
+2021;Denmark;EU;4038.22;5504.7;Post-Brexit
+2021;Austria;EU;3413.07;4496.55;Post-Brexit
+2021;Portugal;EU;3046.98;3580.06;Post-Brexit
+2021;Finland;EU;2515.38;2947.55;Post-Brexit
+2021;Czech Republic;EU;2159.9;2595.17;Post-Brexit
+2021;Romania;EU;1668.37;2276.56;Post-Brexit
+2021;United States;Non-EU;60705.34;49393.62;Post-Brexit
+2021;China;Non-EU;26485.07;57220.97;Post-Brexit
+2021;Japan;Non-EU;8555.67;9256.89;Post-Brexit
+2021;Australia;Non-EU;7278.23;4166.59;Post-Brexit
+2021;Canada;Non-EU;7329.14;5343.09;Post-Brexit
+2021;India;Non-EU;6741.02;8497.03;Post-Brexit
+2021;South Korea;Non-EU;4234.01;6330.2;Post-Brexit
+2021;Switzerland;Non-EU;12312.53;10276.26;Post-Brexit
+2021;Norway;Non-EU;5362.14;8467.19;Post-Brexit
+2021;UAE;Non-EU;8773.67;5231.62;Post-Brexit
+2021;Saudi Arabia;Non-EU;4831.89;6119.63;Post-Brexit
+2021;Brazil;Non-EU;3231.31;3822.43;Post-Brexit
+2021;Singapore;Non-EU;6671.82;4061.27;Post-Brexit
+2021;Hong Kong;Non-EU;5693.37;3154.87;Post-Brexit
+2021;Turkey;Non-EU;3830.25;4130.78;Post-Brexit
+2021;Mexico;Non-EU;2785.97;3229.11;Post-Brexit
+2021;South Africa;Non-EU;2197.32;2552.72;Post-Brexit
+2021;Israel;Non-EU;2618.77;2000.13;Post-Brexit
+2021;New Zealand;Non-EU;1578.66;1571.08;Post-Brexit
+2021;Malaysia;Non-EU;2235.54;3015.44;Post-Brexit
+2022;Germany;EU;30189.47;59259.13;Post-Brexit
+2022;France;EU;23615.64;32118.52;Post-Brexit
+2022;Netherlands;EU;21737.77;36832.26;Post-Brexit
+2022;Ireland;EU;19438.7;15398.98;Post-Brexit
+2022;Belgium;EU;16053.01;23107.6;Post-Brexit
+2022;Italy;EU;12536.6;19651.79;Post-Brexit
+2022;Spain;EU;10101.63;14118.25;Post-Brexit
+2022;Sweden;EU;6972.5;7735.68;Post-Brexit
+2022;Poland;EU;5089.08;7450.8;Post-Brexit
+2022;Denmark;EU;4331.06;5562.76;Post-Brexit
+2022;Austria;EU;3538.32;4719.55;Post-Brexit
+2022;Portugal;EU;3074.07;3762.01;Post-Brexit
+2022;Finland;EU;2712.16;3185.49;Post-Brexit
+2022;Czech Republic;EU;2222.69;2701.29;Post-Brexit
+2022;Romania;EU;1797.52;2260.77;Post-Brexit
+2022;United States;Non-EU;64046.8;54086.5;Post-Brexit
+2022;China;Non-EU;27929.09;59043.11;Post-Brexit
+2022;Japan;Non-EU;8733.53;10036.28;Post-Brexit
+2022;Australia;Non-EU;8048.4;4409.37;Post-Brexit
+2022;Canada;Non-EU;7372.27;5376.03;Post-Brexit
+2022;India;Non-EU;6436.07;8611.44;Post-Brexit
+2022;South Korea;Non-EU;4377.73;6481.01;Post-Brexit
+2022;Switzerland;Non-EU;13493.96;10602.21;Post-Brexit
+2022;Norway;Non-EU;5449.51;8970.68;Post-Brexit
+2022;UAE;Non-EU;9144.95;5260.33;Post-Brexit
+2022;Saudi Arabia;Non-EU;4993.43;6628.12;Post-Brexit
+2022;Brazil;Non-EU;3331.7;3737.13;Post-Brexit
+2022;Singapore;Non-EU;6666.34;4578.13;Post-Brexit
+2022;Hong Kong;Non-EU;6211.79;3364.52;Post-Brexit
+2022;Turkey;Non-EU;4059.84;4516.86;Post-Brexit
+2022;Mexico;Non-EU;2766.51;3136.95;Post-Brexit
+2022;South Africa;Non-EU;2206.79;2819.71;Post-Brexit
+2022;Israel;Non-EU;2898.97;2299.75;Post-Brexit
+2022;New Zealand;Non-EU;1666.4;1690.84;Post-Brexit
+2022;Malaysia;Non-EU;2250.33;3334.07;Post-Brexit
+2023;Germany;EU;30279.48;58122.14;Post-Brexit
+2023;France;EU;24760.1;30683.46;Post-Brexit
+2023;Netherlands;EU;21885.39;39332.2;Post-Brexit
+2023;Ireland;EU;19392.65;16005.31;Post-Brexit
+2023;Belgium;EU;15967.76;22143.54;Post-Brexit
+2023;Italy;EU;13513.21;19282.58;Post-Brexit
+2023;Spain;EU;10566.81;13888.86;Post-Brexit
+2023;Sweden;EU;6783.3;8398.2;Post-Brexit
+2023;Poland;EU;5145.46;7331.81;Post-Brexit
+2023;Denmark;EU;4249.88;5453.27;Post-Brexit
+2023;Austria;EU;3457.35;4520.35;Post-Brexit
+2023;Portugal;EU;3196.37;3635.52;Post-Brexit
+2023;Finland;EU;2737.29;3326.88;Post-Brexit
+2023;Czech Republic;EU;2169.88;2644.61;Post-Brexit
+2023;Romania;EU;1694.45;2309.07;Post-Brexit
+2023;United States;Non-EU;66411.92;52953.39;Post-Brexit
+2023;China;Non-EU;29181.66;63332.4;Post-Brexit
+2023;Japan;Non-EU;9339.61;10336.27;Post-Brexit
+2023;Australia;Non-EU;8411.94;4345.31;Post-Brexit
+2023;Canada;Non-EU;7116.48;5405.33;Post-Brexit
+2023;India;Non-EU;6642.09;9111.84;Post-Brexit
+2023;South Korea;Non-EU;4629.43;6530.47;Post-Brexit
+2023;Switzerland;Non-EU;14075.26;11498.93;Post-Brexit
+2023;Norway;Non-EU;5558.98;9056.09;Post-Brexit
+2023;UAE;Non-EU;9428.09;5384.14;Post-Brexit
+2023;Saudi Arabia;Non-EU;5340.24;7032.29;Post-Brexit
+2023;Brazil;Non-EU;3314.79;3734.07;Post-Brexit
+2023;Singapore;Non-EU;6770.25;4559.45;Post-Brexit
+2023;Hong Kong;Non-EU;6614.79;3325.28;Post-Brexit
+2023;Turkey;Non-EU;4111.54;4290.05;Post-Brexit
+2023;Mexico;Non-EU;2929.8;3402.75;Post-Brexit
+2023;South Africa;Non-EU;2208.44;2876.29;Post-Brexit
+2023;Israel;Non-EU;2975.71;2262.49;Post-Brexit
+2023;New Zealand;Non-EU;1659.63;1761.29;Post-Brexit
+2023;Malaysia;Non-EU;2365.01;3308.66;Post-Brexit
+2024;Germany;EU;31621.88;59667.6;Post-Brexit
+2024;France;EU;25495.19;32033.21;Post-Brexit
+2024;Netherlands;EU;23545.28;40319.02;Post-Brexit
+2024;Ireland;EU;19230.29;17511.36;Post-Brexit
+2024;Belgium;EU;16602.09;24014.24;Post-Brexit
+2024;Italy;EU;13932.98;20328.01;Post-Brexit
+2024;Spain;EU;11175.3;14599.34;Post-Brexit
+2024;Sweden;EU;7112.62;8627.96;Post-Brexit
+2024;Poland;EU;5480.84;7427.72;Post-Brexit
+2024;Denmark;EU;4520.69;5708.91;Post-Brexit
+2024;Austria;EU;3555.7;4813.55;Post-Brexit
+2024;Portugal;EU;3290.34;3566.24;Post-Brexit
+2024;Finland;EU;2834.19;3171.63;Post-Brexit
+2024;Czech Republic;EU;2266.97;2820.78;Post-Brexit
+2024;Romania;EU;1797.98;2215.42;Post-Brexit
+2024;United States;Non-EU;67177.68;53443.76;Post-Brexit
+2024;China;Non-EU;28650.75;65133.79;Post-Brexit
+2024;Japan;Non-EU;9289.28;10743.63;Post-Brexit
+2024;Australia;Non-EU;8426.18;4497.08;Post-Brexit
+2024;Canada;Non-EU;7294.29;6007.64;Post-Brexit
+2024;India;Non-EU;6786.61;9402.47;Post-Brexit
+2024;South Korea;Non-EU;4714.61;7078.13;Post-Brexit
+2024;Switzerland;Non-EU;14429.9;11667.79;Post-Brexit
+2024;Norway;Non-EU;5894.58;9469.5;Post-Brexit
+2024;UAE;Non-EU;9055.84;5589.92;Post-Brexit
+2024;Saudi Arabia;Non-EU;5411.84;6766.28;Post-Brexit
+2024;Brazil;Non-EU;3568.87;4014.24;Post-Brexit
+2024;Singapore;Non-EU;7101.89;4565.73;Post-Brexit
+2024;Hong Kong;Non-EU;6649.61;3391.62;Post-Brexit
+2024;Turkey;Non-EU;4213.78;4494.62;Post-Brexit
+2024;Mexico;Non-EU;2876.66;3319.13;Post-Brexit
+2024;South Africa;Non-EU;2287.45;2765.62;Post-Brexit
+2024;Israel;Non-EU;2960.58;2360.3;Post-Brexit
+2024;New Zealand;Non-EU;1714.27;1676.08;Post-Brexit
+2024;Malaysia;Non-EU;2356.27;3527.48;Post-Brexit

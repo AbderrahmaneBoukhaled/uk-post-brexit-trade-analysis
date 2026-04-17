@@ -1,0 +1,181 @@
+Year;Product_Category;EU_NonEU;Exports_GBP_Millions;Imports_GBP_Millions;Brexit_Period
+2016;Machinery & Transport Equipment;EU;85510.07;124064.91;Pre-Brexit
+2016;Machinery & Transport Equipment;Non-EU;101625.79;109676.41;Pre-Brexit
+2016;Chemicals & Related Products;EU;40692.03;61913.48;Pre-Brexit
+2016;Chemicals & Related Products;Non-EU;51711.45;55897.52;Pre-Brexit
+2016;Manufactured Goods;EU;28079.52;41474.36;Pre-Brexit
+2016;Manufactured Goods;Non-EU;37305.25;39377.0;Pre-Brexit
+2016;Miscellaneous Manufactures;EU;23780.38;34038.52;Pre-Brexit
+2016;Miscellaneous Manufactures;Non-EU;30773.59;32610.23;Pre-Brexit
+2016;Food & Live Animals;EU;19351.35;28497.51;Pre-Brexit
+2016;Food & Live Animals;Non-EU;23671.34;25956.55;Pre-Brexit
+2016;Crude Materials;EU;11291.97;16886.83;Pre-Brexit
+2016;Crude Materials;Non-EU;15494.54;16283.65;Pre-Brexit
+2016;Mineral Fuels & Lubricants;EU;12035.59;17504.45;Pre-Brexit
+2016;Mineral Fuels & Lubricants;Non-EU;14207.94;16531.26;Pre-Brexit
+2016;Beverages & Tobacco;EU;8911.61;13647.83;Pre-Brexit
+2016;Beverages & Tobacco;Non-EU;11946.6;12799.89;Pre-Brexit
+2016;Animal & Vegetable Oils;EU;4894.36;6802.17;Pre-Brexit
+2016;Animal & Vegetable Oils;Non-EU;6092.97;6597.4;Pre-Brexit
+2016;Commodities & Transactions;EU;2399.8;3439.0;Pre-Brexit
+2016;Commodities & Transactions;Non-EU;2974.7;3247.85;Pre-Brexit
+2017;Machinery & Transport Equipment;EU;82775.54;129499.6;Pre-Brexit
+2017;Machinery & Transport Equipment;Non-EU;112239.56;114257.0;Pre-Brexit
+2017;Chemicals & Related Products;EU;43333.7;64989.24;Pre-Brexit
+2017;Chemicals & Related Products;Non-EU;56347.85;62609.32;Pre-Brexit
+2017;Manufactured Goods;EU;27709.6;41617.88;Pre-Brexit
+2017;Manufactured Goods;Non-EU;37273.0;38581.26;Pre-Brexit
+2017;Miscellaneous Manufactures;EU;23010.52;34196.0;Pre-Brexit
+2017;Miscellaneous Manufactures;Non-EU;29050.06;33128.01;Pre-Brexit
+2017;Food & Live Animals;EU;19207.63;27974.49;Pre-Brexit
+2017;Food & Live Animals;Non-EU;23799.61;27185.45;Pre-Brexit
+2017;Crude Materials;EU;12134.62;17774.71;Pre-Brexit
+2017;Crude Materials;Non-EU;15571.62;17352.06;Pre-Brexit
+2017;Mineral Fuels & Lubricants;EU;12235.52;18080.11;Pre-Brexit
+2017;Mineral Fuels & Lubricants;Non-EU;15531.57;17368.3;Pre-Brexit
+2017;Beverages & Tobacco;EU;9443.33;14349.1;Pre-Brexit
+2017;Beverages & Tobacco;Non-EU;12408.69;13861.01;Pre-Brexit
+2017;Animal & Vegetable Oils;EU;4912.67;6836.59;Pre-Brexit
+2017;Animal & Vegetable Oils;Non-EU;5909.82;6530.46;Pre-Brexit
+2017;Commodities & Transactions;EU;2437.86;3596.08;Pre-Brexit
+2017;Commodities & Transactions;Non-EU;2992.42;3204.22;Pre-Brexit
+2018;Machinery & Transport Equipment;EU;85654.79;128756.54;Pre-Brexit
+2018;Machinery & Transport Equipment;Non-EU;113902.45;118815.21;Pre-Brexit
+2018;Chemicals & Related Products;EU;43208.45;62197.15;Pre-Brexit
+2018;Chemicals & Related Products;Non-EU;53514.04;60686.76;Pre-Brexit
+2018;Manufactured Goods;EU;28311.39;42200.22;Pre-Brexit
+2018;Manufactured Goods;Non-EU;35868.49;42616.3;Pre-Brexit
+2018;Miscellaneous Manufactures;EU;24826.56;36338.42;Pre-Brexit
+2018;Miscellaneous Manufactures;Non-EU;32568.83;35641.43;Pre-Brexit
+2018;Food & Live Animals;EU;19546.73;28188.71;Pre-Brexit
+2018;Food & Live Animals;Non-EU;23784.94;27852.42;Pre-Brexit
+2018;Crude Materials;EU;11974.37;18306.83;Pre-Brexit
+2018;Crude Materials;Non-EU;16230.32;16432.2;Pre-Brexit
+2018;Mineral Fuels & Lubricants;EU;12112.28;18276.67;Pre-Brexit
+2018;Mineral Fuels & Lubricants;Non-EU;15569.11;16279.02;Pre-Brexit
+2018;Beverages & Tobacco;EU;9461.76;14186.4;Pre-Brexit
+2018;Beverages & Tobacco;Non-EU;12677.68;14063.98;Pre-Brexit
+2018;Animal & Vegetable Oils;EU;4722.16;7353.15;Pre-Brexit
+2018;Animal & Vegetable Oils;Non-EU;6100.8;7091.37;Pre-Brexit
+2018;Commodities & Transactions;EU;2477.28;3624.79;Pre-Brexit
+2018;Commodities & Transactions;Non-EU;3102.32;3331.6;Pre-Brexit
+2019;Machinery & Transport Equipment;EU;80979.34;129579.01;Pre-Brexit
+2019;Machinery & Transport Equipment;Non-EU;106999.95;117838.95;Pre-Brexit
+2019;Chemicals & Related Products;EU;44465.18;64651.48;Pre-Brexit
+2019;Chemicals & Related Products;Non-EU;55797.61;59989.58;Pre-Brexit
+2019;Manufactured Goods;EU;27380.83;41845.5;Pre-Brexit
+2019;Manufactured Goods;Non-EU;37990.52;40848.98;Pre-Brexit
+2019;Miscellaneous Manufactures;EU;24165.56;34311.78;Pre-Brexit
+2019;Miscellaneous Manufactures;Non-EU;31019.13;35057.0;Pre-Brexit
+2019;Food & Live Animals;EU;18725.95;28848.81;Pre-Brexit
+2019;Food & Live Animals;Non-EU;23758.92;28167.91;Pre-Brexit
+2019;Crude Materials;EU;11904.81;17219.08;Pre-Brexit
+2019;Crude Materials;Non-EU;14906.35;16895.06;Pre-Brexit
+2019;Mineral Fuels & Lubricants;EU;11838.13;16960.79;Pre-Brexit
+2019;Mineral Fuels & Lubricants;Non-EU;16193.33;17503.72;Pre-Brexit
+2019;Beverages & Tobacco;EU;9384.96;13602.94;Pre-Brexit
+2019;Beverages & Tobacco;Non-EU;12756.97;13445.5;Pre-Brexit
+2019;Animal & Vegetable Oils;EU;4812.67;7078.27;Pre-Brexit
+2019;Animal & Vegetable Oils;Non-EU;6033.57;6948.9;Pre-Brexit
+2019;Commodities & Transactions;EU;2468.43;3445.38;Pre-Brexit
+2019;Commodities & Transactions;Non-EU;3102.54;3322.78;Pre-Brexit
+2020;Machinery & Transport Equipment;EU;74855.69;105282.69;Transition
+2020;Machinery & Transport Equipment;Non-EU;99194.81;106558.78;Transition
+2020;Chemicals & Related Products;EU;36112.36;55669.76;Transition
+2020;Chemicals & Related Products;Non-EU;48732.02;55172.97;Transition
+2020;Manufactured Goods;EU;24644.97;37223.33;Transition
+2020;Manufactured Goods;Non-EU;32055.15;34541.09;Transition
+2020;Miscellaneous Manufactures;EU;20700.01;31555.5;Transition
+2020;Miscellaneous Manufactures;Non-EU;27277.31;28343.71;Transition
+2020;Food & Live Animals;EU;16480.62;23672.4;Transition
+2020;Food & Live Animals;Non-EU;21957.89;23602.86;Transition
+2020;Crude Materials;EU;10214.98;14760.17;Transition
+2020;Crude Materials;Non-EU;13227.72;14978.09;Transition
+2020;Mineral Fuels & Lubricants;EU;10334.47;14627.6;Transition
+2020;Mineral Fuels & Lubricants;Non-EU;14029.0;14017.71;Transition
+2020;Beverages & Tobacco;EU;8409.51;12269.13;Transition
+2020;Beverages & Tobacco;Non-EU;11262.37;11616.54;Transition
+2020;Animal & Vegetable Oils;EU;4171.5;6204.01;Transition
+2020;Animal & Vegetable Oils;Non-EU;5723.7;5872.46;Transition
+2020;Commodities & Transactions;EU;1957.15;3006.29;Transition
+2020;Commodities & Transactions;Non-EU;2755.18;3046.2;Transition
+2021;Machinery & Transport Equipment;EU;71973.02;108258.68;Post-Brexit
+2021;Machinery & Transport Equipment;Non-EU;112481.55;119435.34;Post-Brexit
+2021;Chemicals & Related Products;EU;36473.27;55506.03;Post-Brexit
+2021;Chemicals & Related Products;Non-EU;58590.98;59557.37;Post-Brexit
+2021;Manufactured Goods;EU;23713.83;39092.17;Post-Brexit
+2021;Manufactured Goods;Non-EU;37844.3;41918.92;Post-Brexit
+2021;Miscellaneous Manufactures;EU;20119.01;32211.38;Post-Brexit
+2021;Miscellaneous Manufactures;Non-EU;33183.81;35503.54;Post-Brexit
+2021;Food & Live Animals;EU;15667.32;24437.05;Post-Brexit
+2021;Food & Live Animals;Non-EU;26204.39;28128.82;Post-Brexit
+2021;Crude Materials;EU;10280.07;14836.33;Post-Brexit
+2021;Crude Materials;Non-EU;15335.5;17360.76;Post-Brexit
+2021;Mineral Fuels & Lubricants;EU;10328.18;16332.32;Post-Brexit
+2021;Mineral Fuels & Lubricants;Non-EU;16422.7;17022.85;Post-Brexit
+2021;Beverages & Tobacco;EU;7610.41;12613.19;Post-Brexit
+2021;Beverages & Tobacco;Non-EU;13299.47;13631.59;Post-Brexit
+2021;Animal & Vegetable Oils;EU;4041.31;6474.43;Post-Brexit
+2021;Animal & Vegetable Oils;Non-EU;6119.82;7057.39;Post-Brexit
+2021;Commodities & Transactions;EU;1941.24;3072.73;Post-Brexit
+2021;Commodities & Transactions;Non-EU;3091.83;3437.88;Post-Brexit
+2022;Machinery & Transport Equipment;EU;71477.55;114642.2;Post-Brexit
+2022;Machinery & Transport Equipment;Non-EU;112506.0;120373.15;Post-Brexit
+2022;Chemicals & Related Products;EU;37873.39;57968.94;Post-Brexit
+2022;Chemicals & Related Products;Non-EU;58284.14;67295.2;Post-Brexit
+2022;Manufactured Goods;EU;23477.21;38040.44;Post-Brexit
+2022;Manufactured Goods;Non-EU;38908.54;42030.63;Post-Brexit
+2022;Miscellaneous Manufactures;EU;19293.05;32793.46;Post-Brexit
+2022;Miscellaneous Manufactures;Non-EU;34575.28;36541.69;Post-Brexit
+2022;Food & Live Animals;EU;15675.59;25310.85;Post-Brexit
+2022;Food & Live Animals;Non-EU;26182.59;28974.73;Post-Brexit
+2022;Crude Materials;EU;10285.14;15791.56;Post-Brexit
+2022;Crude Materials;Non-EU;16205.44;18571.89;Post-Brexit
+2022;Mineral Fuels & Lubricants;EU;9839.08;15728.52;Post-Brexit
+2022;Mineral Fuels & Lubricants;Non-EU;16592.89;17480.23;Post-Brexit
+2022;Beverages & Tobacco;EU;8173.73;12824.83;Post-Brexit
+2022;Beverages & Tobacco;Non-EU;13951.75;14067.52;Post-Brexit
+2022;Animal & Vegetable Oils;EU;4251.61;6465.51;Post-Brexit
+2022;Animal & Vegetable Oils;Non-EU;6498.39;7228.14;Post-Brexit
+2022;Commodities & Transactions;EU;2066.54;3260.26;Post-Brexit
+2022;Commodities & Transactions;Non-EU;3174.26;3628.6;Post-Brexit
+2023;Machinery & Transport Equipment;EU;72618.03;118460.88;Post-Brexit
+2023;Machinery & Transport Equipment;Non-EU;116907.83;131772.68;Post-Brexit
+2023;Chemicals & Related Products;EU;37758.62;57691.41;Post-Brexit
+2023;Chemicals & Related Products;Non-EU;62276.95;66597.73;Post-Brexit
+2023;Manufactured Goods;EU;25348.5;39899.89;Post-Brexit
+2023;Manufactured Goods;Non-EU;41610.38;45352.38;Post-Brexit
+2023;Miscellaneous Manufactures;EU;21020.98;33843.52;Post-Brexit
+2023;Miscellaneous Manufactures;Non-EU;34631.49;35858.32;Post-Brexit
+2023;Food & Live Animals;EU;16505.58;26232.05;Post-Brexit
+2023;Food & Live Animals;Non-EU;27940.07;28046.77;Post-Brexit
+2023;Crude Materials;EU;10164.78;16668.14;Post-Brexit
+2023;Crude Materials;Non-EU;16512.45;17606.05;Post-Brexit
+2023;Mineral Fuels & Lubricants;EU;10418.3;17032.51;Post-Brexit
+2023;Mineral Fuels & Lubricants;Non-EU;17118.65;19034.19;Post-Brexit
+2023;Beverages & Tobacco;EU;8576.28;12696.24;Post-Brexit
+2023;Beverages & Tobacco;Non-EU;14096.09;14596.18;Post-Brexit
+2023;Animal & Vegetable Oils;EU;4278.18;6666.66;Post-Brexit
+2023;Animal & Vegetable Oils;Non-EU;6716.3;7030.0;Post-Brexit
+2023;Commodities & Transactions;EU;2171.55;3136.25;Post-Brexit
+2023;Commodities & Transactions;Non-EU;3572.43;3787.34;Post-Brexit
+2024;Machinery & Transport Equipment;EU;75939.55;120620.78;Post-Brexit
+2024;Machinery & Transport Equipment;Non-EU;128306.12;135377.55;Post-Brexit
+2024;Chemicals & Related Products;EU;37685.45;60913.26;Post-Brexit
+2024;Chemicals & Related Products;Non-EU;59976.05;67811.9;Post-Brexit
+2024;Manufactured Goods;EU;25350.3;40143.77;Post-Brexit
+2024;Manufactured Goods;Non-EU;42751.17;45424.09;Post-Brexit
+2024;Miscellaneous Manufactures;EU;21905.41;34332.69;Post-Brexit
+2024;Miscellaneous Manufactures;Non-EU;33650.73;36536.87;Post-Brexit
+2024;Food & Live Animals;EU;16170.6;27318.68;Post-Brexit
+2024;Food & Live Animals;Non-EU;28189.97;31275.76;Post-Brexit
+2024;Crude Materials;EU;10314.95;15724.22;Post-Brexit
+2024;Crude Materials;Non-EU;18078.31;19536.34;Post-Brexit
+2024;Mineral Fuels & Lubricants;EU;10400.71;16291.62;Post-Brexit
+2024;Mineral Fuels & Lubricants;Non-EU;16880.41;19605.54;Post-Brexit
+2024;Beverages & Tobacco;EU;8322.42;13144.22;Post-Brexit
+2024;Beverages & Tobacco;Non-EU;13444.67;15595.85;Post-Brexit
+2024;Animal & Vegetable Oils;EU;4089.61;6546.47;Post-Brexit
+2024;Animal & Vegetable Oils;Non-EU;7123.9;7689.73;Post-Brexit
+2024;Commodities & Transactions;EU;2216.76;3261.88;Post-Brexit
+2024;Commodities & Transactions;Non-EU;3587.09;3623.92;Post-Brexit
